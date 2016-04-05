@@ -1,0 +1,2 @@
+# project
+trying out github
